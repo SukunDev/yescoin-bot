@@ -1,0 +1,7 @@
+{
+  "alias": "alias_config",
+  "params": "",
+  "upgrade_multi_value": true,
+  "upgrade_fill_rate": true,
+  "upgrade_coin_limit": true
+}
